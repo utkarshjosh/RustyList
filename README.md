@@ -12,21 +12,21 @@ RustyTasks is a simple CLI-based to-do list manager built in Rust. It helps you 
 ## Installation
 
 1. Clone the repository:
-   ````bash
+   ```bash
     git clone https://github.com/your-username/rustytasks.git
-    cd rustytasks```
-   ````
+    cd rustytasks
+   ```
 2. Build the project:
 
-   ````bash
-   cargo build --release```
+   ```bash
+   cargo build --release
 
-   ````
+   ```
 
 3. Run the executable:
-   ````bash
-   ./target/release/rustytasks```
-   ````
+   ```bash
+   ./target/release/rustytasks
+   ```
 
 ## Usage
 
